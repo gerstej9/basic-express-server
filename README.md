@@ -5,7 +5,7 @@ Practice for deploying an express server and creating and performing tests to en
 * https://github.com/gerstej9/basic-express-server/pull/1
 
 ## Github Actions
-* No .yml or instruction on specific workflow test provided
+https://github.com/gerstej9/basic-express-server/actions
 
 ## Heroku URLs
 * URL: https://jamesgers-basic-express-server.herokuapp.com
